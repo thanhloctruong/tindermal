@@ -1,0 +1,18 @@
+.chat{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid #eeebeb;
+    height: 70px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.chat__details{
+    flex: 1;
+}
+.chat__img{
+    margin-right: 20px;
+}
